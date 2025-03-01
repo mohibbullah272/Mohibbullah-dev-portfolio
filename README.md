@@ -44,6 +44,7 @@ npm install
 
 # Start the development server
 npm run dev
+```
 🚀 Usage
 Open your browser and go to http://localhost:3000
 Browse projects and explore the contact section
