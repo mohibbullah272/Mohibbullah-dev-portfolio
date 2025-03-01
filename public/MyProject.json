@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "title": "Care Point",
+    "category": "Healthcare",
+    "shortDescription": "A platform for managing medical camps where participants can register and pay securely.",
+    "fullDescription": "Care Point is a web-based platform designed to streamline the management of medical camps. Users can browse upcoming camps, register, and securely pay for participation. Organizers can manage camps, track payments, and engage with participants efficiently. The system includes role-based routes for participants and organizers. The organizer dashboard provides tools for managing camps, tracking payments, and viewing participant analytics. The project also includes Stripe payment integration and a feedback system. It features a light theme interface and is built using modern web technologies.",
+    "thumbnailImage": "https://i.ibb.co.com/LX9hZpHK/Care-Point-02-05-2025-10-22-PM.png",
+    "fullImage": "https://i.ibb.co.com/8nvqNB7t/Care-Point-02-05-2025-10-25-PM.png",
+    "keyFeatures": [
+      "Role-based routes for participants and organizers",
+      "Secure online payments using Stripe",
+      "Camp management system for adding, updating, and deleting camps",
+      "Participant analytics to track total costs and past camps",
+      "Organizer dashboard for managing camps, payments, and feedback",
+      "Profile update system for both participants and organizers",
+      "Feedback system for users after attending a camp"
+    ],
+    "technologiesUsed": [
+      "React", 
+      "Tailwind CSS", 
+      "Node.js", 
+      "Express.js", 
+      "MongoDB", 
+      "Firebase Authentication", 
+      "Stripe Payment Integration", 
+      "Mantine UI", 
+      "Tanstack Query",
+      "Axios",
+      "Recharts"
+    ],
+    "status": "Completed",
+    "liveDemo": "https://carepoint-940e4.web.app",
+    "Github": "https://github.com/mohibbullah272/CarePoint-client"
+  },
+  
+    {
+      "id": 2,
+      "title": "Chill Gamer",
+      "category": "Review Platform",
+      "shortDescription": "A platform to review and rate games.",
+      "fullDescription": "Chill Gamer is a comprehensive platform where users can review, rate, and discuss their favorite video games. It includes wishlist functionality, sorting options, and search options to help users find what they need. I have also implemented a dark and light theme toggle on the homepage. Adding this feature was a challenging process, as it took me a long time and involved resolving many errors. However, I managed to overcome these difficulties and successfully integrated the feature. In the future, I plan to enhance this project by adding exciting new features such as a commenting system, user management, chat functionality, and more options to improve the user experience.",
+      "thumbnailImage": "https://i.ibb.co.com/smKj9wn/project2.png",
+      "fullImage": "https://i.ibb.co.com/ZBNCtbx/project1-full.png",
+      "keyFeatures": [
+        "User reviews and ratings",
+        "Dynamic game recommendations",
+        "Authentication System",
+        "Wishlist sorting filter and search option"
+      ],
+      "technologiesUsed": ["React", "Node.js", "MongoDB", "Express.js"],
+      "status": "Completed",
+      "liveDemo": "https://chill-gamer-a150c.web.app/",
+      "Github":"https://github.com/programming-hero-web-course2/b10-a10-client-side-mohibbullah272"
+     
+    },
+    {
+      "id": 3,
+      "title": "E-Blogs",
+      "category": "Social Media",
+      "shortDescription": "A blogging platform to post and share thoughts.",
+      "fullDescription": "E-Blogs is a social blogging platform that allows users to write, publish, and share their thoughts. It includes features such as commenting, enabling meaningful interactions. This is one of my favorite projects, and I thoroughly enjoyed working on it. However, while implementing a React package for the top blog page, it took me a bit longer than expected. Moving forward, I plan to enhance the platform by adding features such as real-time chat, allowing users to communicate with each other like on other social platforms. Additionally, I aim to introduce a grouping section where friends can connect and interact in a more social environment.",
+      "thumbnailImage": "https://i.ibb.co.com/z5LWSbp/project3.png",
+      "fullImage": "https://i.ibb.co.com/GdvfKrw/project3-full.png",
+      "keyFeatures": [
+        "User-friendly blog editor",
+        "Commenting  system",
+        "post correction and management",
+        "Wishlist sort and searching option"
+      ],
+      "technologiesUsed": ["React", "JWT Authentication", "MongoDB","Express.js","Firebase"],
+      "status": "Completed",
+      "liveDemo": "https://e-blogs-1ae44.web.app/",
+      "Github":"https://github.com/programming-hero-web-course2/b10a11-client-side-mohibbullah272"
+    },
+    {
+      "id": 4,
+      "title": "Bistro Boss Restaurant",
+      "category": "Restaurant",
+      "shortDescription": "A food oder platform here user can found there loved ones food",
+      "fullDescription": "Bistro Boss is an online food ordering platform where users can find their favorite dishes and place orders using online payment methods. Users can also book a seat with just one click. Bistro Boss is a role-based project with separate routes for admins and customers. The admin panel includes features for managing users, seats, orders, and the menu. Additionally, the project provides business management statistics to help track key metrics. This is an ongoing project that I am actively working on. Although I initially expected it to take a few days, I plan to incorporate more features in the future to further enhance the platform.",
+      "thumbnailImage": "https://i.ibb.co.com/c2X9B3m/project5.png",
+      "fullImage": "https://i.ibb.co.com/kBgsrNj/project-5full.png",
+      "keyFeatures": [
+        "Role based routes",
+        "Online Payment system",
+        "update customer role and profile system",
+        "For admin user menu order and business management statistic section",
+        "For seller we add seat booking and related order management system"
+      ],
+      "technologiesUsed": ["React", "JWT Authentication", "MongoDB","Express.js","Firebase","And Other react packages"],
+      "status": "Completed",
+      "liveDemo": "https://bistro-boss-5757c.web.app",
+      "Github":"https://github.com/mohibbullah272/Bistro-boss-client"
+    }
+  ]
+  
