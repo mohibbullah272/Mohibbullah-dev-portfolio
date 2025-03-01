@@ -45,14 +45,13 @@ npm install
 # Start the development server
 npm run dev
 ```
-🚀 Usage
+## 🚀 Usage
 Open your browser and go to http://localhost:3000
 Browse projects and explore the contact section
-📞 Contact
+## 📞 Contact
 Feel free to reach out via:
-
-🌐 Portfolio: [https://my-portfilo369.web.app/]
-📧 Email: bullahmohi50@gmail.com
-💼 LinkedIn: [www.linkedin.com/in/mohi-bullah247]
+- 🌐 Portfolio: [https://my-portfilo369.web.app/]
+- 📧 Email: bullahmohi50@gmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/mohi-bullah247]
 
 
